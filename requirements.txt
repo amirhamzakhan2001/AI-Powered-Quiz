@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+requests
+pydantic
+langgraph
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters # Added for text splitting functionality
+faiss-cpu              # Added for FAISS vector store (CPU version)
+pymongo
