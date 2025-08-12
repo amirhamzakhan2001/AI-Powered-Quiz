@@ -120,12 +120,12 @@ Search Report/FB ] Records ]
 
 ## 📷 Demo
 
-![Quiz Screenshot 1](image/Pic 1.png)
-![Quiz Screenshot 2](image/Pic 2.png)
-![Quiz Screenshot 3](image/Pic 3.png)
-![Quiz Screenshot 4](image/Pic 4.png)
-![Quiz Screenshot 5](image/Pic 5.png)
-![Quiz Screenshot 6](image/Pic 6.png)
+![Quiz Screenshot 1](image/Pic%201.png)
+![Quiz Screenshot 2](image/Pic%202.png)
+![Quiz Screenshot 3](image/Pic%203.png)
+![Quiz Screenshot 4](image/Pic%204.png)
+![Quiz Screenshot 5](image/Pic%205.png)
+![Quiz Screenshot 6](image/Pic%206.png)
 
 ## 👥 Team Acknowledgement
 
