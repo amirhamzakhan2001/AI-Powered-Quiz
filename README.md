@@ -12,6 +12,13 @@ AI-Powered-Quiz/
 ├── .env.example # ← provide template/example here, real .env in .gitignore
 ├── requirements.txt
 ├── README.md
+├── image/
+│   ├── pic1.png
+│   ├── pic2.png
+│   ├── pic3.png
+│   ├── pic4.png
+│   ├── pic5.png
+│   └── pic6.png
 ├── backend/
 │ ├── student_data.py
 │ ├── rag_vector_store.py
@@ -113,8 +120,12 @@ Search Report/FB ] Records ]
 
 ## 📷 Demo
 
-- Add a screenshot or GIF below after your first successful run  
-- If a YouTube video link is ready, insert it here.
+![Quiz Screenshot 1](image/pic1.png)
+![Quiz Screenshot 2](image/pic2.png)
+![Quiz Screenshot 3](image/pic3.png)
+![Quiz Screenshot 4](image/pic4.png)
+![Quiz Screenshot 5](image/pic5.png)
+![Quiz Screenshot 6](image/pic6.png)
 
 ## 👥 Team Acknowledgement
 
