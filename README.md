@@ -54,9 +54,9 @@ pip install -r requirements.txt
 
 - **Never commit your `.env` file!**  
 - Copy `.env.example` to `.env` and add your real keys.
-
+```
 cp .env.example .env
-
+```
 
 Fill in your `.env` with:
 ```
@@ -94,7 +94,7 @@ The app will launch in your browser.
 
 <details>
 <summary>Expand to view architecture</summary>
-
+```
 [ Student UI / Streamlit ]
 |
 v
@@ -107,7 +107,7 @@ Generator ] Evaluation ] DataStore ]
 [RAG/vector [ LLM [ Student
 Search Report/FB ] Records ]
 & Gemini ]
-
+```
 
 </details>
 
