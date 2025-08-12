@@ -5,6 +5,7 @@ Empowering students with personalized, multilingual, AI-generated quizzes via RA
 
 ## 📂 Folder Structure
 
+```
 AI-Powered-Quiz/
 │
 ├── app.py
@@ -17,9 +18,9 @@ AI-Powered-Quiz/
 │ ├── langgraph_workflow.py
 │ ├── quiz_evaluation_graph.py
 │ ├── performance_evaluator.py
-│ └── question_parser.py
-└── ... (assets, images, etc. optional)
-
+│ ├── question_parser.py
+│ └── __init__.py
+```
 
 ## 📝 Project Overview
 
@@ -37,17 +38,17 @@ The goal is to provide rural and underserved learners with interactive, customiz
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-
+```
 git clone https://github.com/your-team/ai-powered-quiz.git
 cd ai-powered-quiz
-
+```
 
 ### 2. Install dependencies
 
 Create and activate a Python 3.9+ virtual environment, then run:
-
+```
 pip install -r requirements.txt
-
+```
 
 ### 3. Configure environment variables
 
@@ -58,17 +59,17 @@ cp .env.example .env
 
 
 Fill in your `.env` with:
-
+```
 GOOGLE_API_KEY=your-google-gemini-api-key
 MONGODB_URI=your-mongodb-atlas-uri
-
+```
 
 Your `.env` is protected by `.gitignore`; only your API users with proper keys can run the app. If someone clones your repo, they must provide their own credentials.
 
 ### 4. Run locally with Streamlit
-
+```
 streamlit run app.py
-
+```
 
 The app will launch in your browser.
 
